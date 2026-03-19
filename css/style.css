@@ -103,6 +103,7 @@ header .header_2 .menu li a{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 15px;
+    margin: 0 auto;
 }
 .child_sectionb img{
     width: 100%;
