@@ -1,4 +1,4 @@
-# luxzuix-website
+# luxzuix-website-Landing page
 A luxury hotel and resort website design
 
 ### Key Features:
